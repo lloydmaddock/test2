@@ -4,6 +4,8 @@ Three potato
 Four potato
 Five potato
 spud you like
+six potato
+spud you don't like
 
 
 
